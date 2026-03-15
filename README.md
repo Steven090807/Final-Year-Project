@@ -180,3 +180,8 @@ A robust, full-stack Assignment Management System designed to streamline academi
 </p>
 <br><br>
 
+---
+<div align="right">
+  <span>🛠️ Project created by 2025-08-29</span><br>
+</div>
+
