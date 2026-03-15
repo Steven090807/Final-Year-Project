@@ -38,5 +38,94 @@ A robust, full-stack Assignment Management System designed to streamline academi
 <br>
 
 ## Project Presentation Design
+<p align="center">
+  <img src="IMG/Teacher_HomePage01.png">
+  <br>
+  <i>(Teacher Interface: Dashboard Home)</i>
+</p>
+<br><br>
 
-*(Teacher Assignment Home Page)*
+<p align="center">
+  <img src="IMG/Teacher_HomePage02.png">
+  <br>
+  <i>(Teacher Interface: Class Management / Add New Class)</i>
+</p>
+<br><br>
+
+<p align="center">
+  <img src="IMG/Teacher_AssPage01.png">
+  <br>
+  <i>(Teacher Interface: Assignment Overview)</i>
+</p>
+<br><br>
+
+<p align="center">
+  <img src="IMG/Teacher_AssPage02.png">
+  <br>
+  <i>(Teacher Interface: Create New Assignment)</i>
+</p>
+<br><br>
+
+<p align="center">
+  <img src="IMG/Teacher_AssPage03.png">
+  <br>
+  <i>(Teacher Interface: Assignment Guidelines)</i>
+</p>
+<br><br>
+
+<p align="center">
+  <img src="IMG/Teacher_AssPage04.png">
+  <br>
+  <i>(Teacher Interface: Assignment Guidelines)</i>
+</p>
+<br><br>
+
+<p align="center">
+  <img src="IMG/Teacher_AssPage05.png">
+  <br>
+  <i>(Teacher Interface: Student Submissions View)</i>
+</p>
+<br><br>
+
+<p align="center">
+  <img src="IMG/Teacher_UpdateAss01.png">
+  <br>
+  <i>(Teacher Interface: File Update & Management)</i>
+</p>
+<br><br>
+
+<p align="center">
+  <img src="IMG/Teacher_UpdateAss02.png">
+  <br>
+  <i>(Teacher Interface: View Assignment)</i>
+</p>
+<br><br>
+
+<p align="center">
+  <img src="IMG/Teacher_UpdateAss03.png">
+  <br>
+  <i>(Teacher Interface: Update File Function)</i>
+</p>
+<br><br>
+
+<p align="center">
+  <img src="IMG/Teacher_UpdateAss04.png">
+  <br>
+  <i>(Teacher Interface: Update File Function)</i>
+</p>
+<br><br>
+
+<p align="center">
+  <img src="IMG/Teacher_UpdateAss05.png">
+  <br>
+  <i>(Teacher Interface: Update File & View)</i>
+</p>
+<br><br>
+
+
+<p align="center">
+  <img src="IMG/Teacher_ClassPeople.png">
+  <br>
+  <i>(Teacher Interface: Class Members & Student List)</i>
+</p>
+<br><br>
