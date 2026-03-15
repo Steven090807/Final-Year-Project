@@ -1,7 +1,7 @@
 # 🎓 Assignment Management System (AMS)
 
-A robust, full-stack Assignment Management System designed to streamline academic workflows. This platform facilitates seamless interaction between Admins, Teachers, and Students, focusing on submission efficiency and real-time progress tracking.
-<br><br>
+<h4>A robust, full-stack Assignment Management System designed to streamline academic workflows. This platform facilitates seamless interaction between Admins, Teachers, and Students, focusing on submission efficiency and real-time progress tracking.</h4>
+<br>
 
 ## 💡 Key Highlights
 
